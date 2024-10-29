@@ -7,6 +7,9 @@
     box-sizing: border-box;
     font-family: "prata";
 }
+.hero{
+    height: calc(100vh-57px);
+}
 .f-text h2{
     font-size: 80px;
     font-weight: 700;
